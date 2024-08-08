@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx-populate": "^1.21.0"
+  }
+}
